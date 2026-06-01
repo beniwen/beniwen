@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Beini Wen, you could just call me beni~
 <!--
 **beniwen/beniwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Beini Wen
+
 
 **M.Sc. Student in Vehicle Engineering | Beijing Institute of Technology**
 
