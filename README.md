@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Beini Wen
+
+**M.Sc. Student in Vehicle Engineering | Beijing Institute of Technology**
+
+My research interests lie in autonomous vehicle systems, unmanned surface vehicles, robust control, trajectory tracking, and data-driven vehicle analysis.
+
+I am particularly interested in integrating physics-based modeling, robust/adaptive control, and data-driven intelligence to improve the autonomy, reliability, and safety of future vehicle systems.
